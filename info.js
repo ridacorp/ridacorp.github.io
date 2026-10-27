@@ -1,7 +1,7 @@
 // 홈페이지에 표시할 정보입니다. 값을 고친 뒤 저장하면 바로 반영돼요.
 window.SITE_INFO = {
   "appName": "세 저금통",
-  "supportEmail": "sellerletter@gmail.com",
+  "supportEmail": "ridacorp2025@gmail.com",
   "operator": {
     "tradeName": "라이다 코퍼레이션",
     "name": "박재훈",
